@@ -1,0 +1,19 @@
+src/content/docs/cloudflare-one/access-controls/ai-controls/mcp-portals.mdx
+  s_86a8f7bda09b1c::t_d4f702cc12d121 119-126,240-258,272,277-279,281,284-286
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ad9102988b06bed65835499612f4aa939778daf5",
+  "prompts": {},
+  "sessions": {
+    "s_86a8f7bda09b1c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f11fa9dbbffe1DquEiiKei9o9y",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Shahed El Baba <shahed@cloudflare.com>"
+    }
+  }
+}
